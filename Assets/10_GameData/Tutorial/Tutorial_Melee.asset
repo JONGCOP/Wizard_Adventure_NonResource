@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a9a3b24dc649bf44afb97c3b446213c, type: 3}
+  m_Name: Tutorial_Melee
+  m_EditorClassIdentifier: 
+  clip: {fileID: 32900000, guid: efa63b65f103ddc48b43cec787a69332, type: 3}
+  explain_Title: "\uADFC\uC811 \uACF5\uACA9 \uB9C8\uBC95"
+  explain: "\uC624\uB978\uCABD \uCEE8\uD2B8\uB864\uB7EC\uC758 \uADF8\uB9BD \uD2B8\uB9AC\uAC70\uB97C
+    \uB20C\uB7EC\uC8FC\uC138\uC694.\n\uC5BC\uC74C\uAC80\uC774 \uC0DD\uC131\uB418\uACE0
+    \uCEE8\uD2B8\uB864\uB7EC\uB97C \uD718\uB450\uB974\uBA74 \uAC80\uC73C\uB85C\n\uACF5\uACA9\uD560
+    \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+  controllerImage_L: {fileID: 21300000, guid: a751bd1f217a3bb4e82a54e0b3caf8fd, type: 3}
+  controllerImage_R: {fileID: 21300000, guid: a201a84e86005584691afe7633c81e6b, type: 3}

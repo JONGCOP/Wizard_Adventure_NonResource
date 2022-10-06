@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fedfdbf020702f444ad5dfa0c4df1317
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - NEXON Lv1 Gothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b5238b27826a6de4f928bf532288039c, type: 3}
+  - {fileID: 12800000, guid: 7df1b2af2d7621044b72244cabbaf21c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

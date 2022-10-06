@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a9a3b24dc649bf44afb97c3b446213c, type: 3}
+  m_Name: Tutorial_Property_Ice
+  m_EditorClassIdentifier: 
+  clip: {fileID: 32900000, guid: c19e67c1c41499c48b8f6928e4c33a9b, type: 3}
+  explain_Title: "\uC18D\uC131 - \uC5BC\uC74C"
+  explain: "\uC5BC\uC74C \uC18D\uC131 \uB9C8\uBC95\uC744 \uC0AC\uC6A9\uD558\uBA74
+    \uC801\uC774 \uACB0\uBE59 \uC0C1\uD0DC\uAC00 \uB429\uB2C8\uB2E4.\n\uC77C\uC815
+    \uC2DC\uAC04\uB3D9\uC548 \uC801\uC758 \uC6C0\uC9C1\uC784\uC774 \uB290\uB824\uC9D1\uB2C8\uB2E4."
+  controllerImage_L: {fileID: 21300000, guid: a751bd1f217a3bb4e82a54e0b3caf8fd, type: 3}
+  controllerImage_R: {fileID: 21300000, guid: 67964f3f79b52e3409847175647fc839, type: 3}
